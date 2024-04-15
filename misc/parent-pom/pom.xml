@@ -35,7 +35,7 @@
 
         <!-- please keep in sync with spring-boot's versions - https://docs.spring.io/spring-boot/docs/current/reference/html/appendix-dependency-versions.html
         https://docs.spring.io/spring-boot/docs/2.7.7/reference/html/dependency-versions.html#appendix.dependency-versions -->
-        <jackson.version>2.13.4</jackson.version>
+        <jackson.version>2.17.0</jackson.version>
         <amqp-client.version>5.14.2</amqp-client.version>
 
         <jasperreports.version>6.7.0</jasperreports.version>
