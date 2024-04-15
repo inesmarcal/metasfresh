@@ -47,7 +47,7 @@
 
         <logstash-logback-encoder.version>6.3</logstash-logback-encoder.version>
 
-        <springdoc-swagger.version>1.6.14</springdoc-swagger.version>
+        <springdoc-swagger.version>1.8.0</springdoc-swagger.version>
 
         <!-- please keep in sync with spring-boot's version to avoid dependency convergence errors -->
         <slf4j-api.version>1.7.36</slf4j-api.version>
