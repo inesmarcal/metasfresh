@@ -6,7 +6,7 @@
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.2.0",
     "@redux-offline/redux-offline": "^2.6.0",
-    "@reduxjs/toolkit": "^1.6.1",
+    "@reduxjs/toolkit": "^1.9.7",
     "@stomp/stompjs": "^6.1.2",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
