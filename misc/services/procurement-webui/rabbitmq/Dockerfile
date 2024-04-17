@@ -1,4 +1,4 @@
-FROM rabbitmq:3.8.9-management
+FROM rabbitmq:3.13.1-management
 
 # to make sure that the cache is only used during one day, run docker build --build-arg CACHEBUST=$(date "+%Y-%m-%d")
 # that way we should get the latest updates since the release of our base image
